@@ -4,6 +4,6 @@ namespace MyNamespace
 {
     public class MyClass
     {
-        public int myVayable = 1;
+        public int myVayable = 2;
     }
 }
